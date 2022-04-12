@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="382px" height="348px" viewBox="0 0 382 348" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <circle id="path-1" cx="125.5" cy="125.5" r="125.5"></circle>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Path-2" transform="translate(66.000000, 66.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#CD5E2E" xlink:href="#path-1"></use>
+            <path d="M-17.5890152,198.905303 C15.8709487,171.896751 48.2617508,157.965212 79.5833912,157.110686 C126.565852,155.828897 152.305966,186.750535 192.219793,194.064593 C218.829012,198.940632 244.602338,196.57227 269.539773,186.959508" stroke="#552B02" stroke-width="20" stroke-linecap="round" mask="url(#mask-2)"></path>
+            <path d="M129.778409,162.104167 C155.388017,150.320357 179.398386,144.154062 201.809517,143.605284 C224.220647,143.056505 248.857374,148.031583 275.719697,158.530519" id="Path-3" stroke="#552B02" stroke-width="20" stroke-linecap="round" mask="url(#mask-2)"></path>
+        </g>
+        <g id="Group" transform="translate(123.000000, 66.000000)" fill="#14342F">
+            <polygon id="Path-4-Copy" points="0 0 69 69.0919765 138 0 138 41.890411 91.003937 79.9726027 91.003937 116.966732 69 139 46.996063 116.966732 46.996063 79.9726027 0 41.890411"></polygon>
+            <path d="M81.5806034,23.8013699 L75.4241379,32.3149368 L86.1310345,41.6523973 L69,59.5034247 L51.8689655,41.1031349 L62.3081897,26.2730506 L81.5806034,23.8013699 Z M67.0965517,31.8938356 C65.5196835,31.8938356 64.2413793,33.172584 64.2413793,34.75 C64.2413793,36.327416 65.5196835,37.6061644 67.0965517,37.6061644 C68.6734199,37.6061644 69.9517241,36.327416 69.9517241,34.75 C69.9517241,33.172584 68.6734199,31.8938356 67.0965517,31.8938356 Z" id="Combined-Shape-Copy"></path>
+        </g>
+        <circle id="Oval" fill="#0A1A17" cx="40" cy="43" r="23"></circle>
+        <circle id="Oval-Copy" fill="#0A1A17" cx="74.5" cy="77.5" r="11.5"></circle>
+    </g>
+</svg>
