@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="802px" height="802px" viewBox="0 0 802 802" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>roscoSVG Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="125.5" cy="125.5" r="125.5"></circle>
+    </defs>
+    <g id="roscoSVG-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(246.000000, 251.000000)">
+            <g id="logo-integrated">
+                <circle id="Mask" fill="#CD5E2E" cx="174.5" cy="171.5" r="125.5"></circle>
+                <g id="Path-2" transform="translate(49.000000, 46.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#CD5E2E" xlink:href="#path-1"></use>
+                    <path d="M-17.5890152,198.905303 C15.8709487,171.896751 48.2617508,157.965212 79.5833912,157.110686 C126.565852,155.828897 152.305966,186.750535 192.219793,194.064593 C218.829012,198.940632 244.602338,196.57227 269.539773,186.959508" stroke="#552B02" stroke-width="20" stroke-linecap="round" mask="url(#mask-2)"></path>
+                    <path d="M129.778409,162.104167 C155.388017,150.320357 179.398386,144.154062 201.809517,143.605284 C224.220647,143.056505 248.857374,148.031583 275.719697,158.530519" id="Path-3" stroke="#552B02" stroke-width="20" stroke-linecap="round" mask="url(#mask-2)"></path>
+                </g>
+                <polygon id="Path-4-Copy" fill="#14342F" points="106 46 175 115.091977 244 46 244 87.890411 197.003937 125.972603 197.003937 162.966732 175 185 152.996063 162.966732 152.996063 125.972603 106 87.890411"></polygon>
+                <path d="M187.580603,69.8013699 L181.424138,78.3149368 L192.131034,87.6523973 L175,105.503425 L157.868966,87.1031349 L168.30819,72.2730506 L187.580603,69.8013699 Z M173.096552,77.8938356 C171.519684,77.8938356 170.241379,79.172584 170.241379,80.75 C170.241379,82.327416 171.519684,83.6061644 173.096552,83.6061644 C174.67342,83.6061644 175.951724,82.327416 175.951724,80.75 C175.951724,79.172584 174.67342,77.8938356 173.096552,77.8938356 Z" id="Combined-Shape-Copy" fill="#14342F"></path>
+                <circle id="Oval" fill="#0A1A17" cx="23" cy="23" r="23"></circle>
+                <circle id="Oval-Copy" fill="#0A1A17" cx="57.5" cy="57.5" r="11.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

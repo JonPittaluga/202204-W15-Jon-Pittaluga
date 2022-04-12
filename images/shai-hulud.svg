@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="802px" height="802px" viewBox="0 0 802 802" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>roscoSVG Copy_WITH MARGINS OK Copy Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="401.5" cy="401.5" r="261.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="523" height="523" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="roscoSVG-Copy_WITH-MARGINS-OK-Copy-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="51,772" stroke-linejoin="round">
+        <use id="Oval" stroke="#4A2201" mask="url(#mask-2)" stroke-width="22" fill="#CA5523" transform="translate(401.500000, 401.500000) scale(-1, -1) rotate(0.000000) translate(-401.500000, -401.500000) " xlink:href="#path-1"></use>
+    </g>
+</svg>
